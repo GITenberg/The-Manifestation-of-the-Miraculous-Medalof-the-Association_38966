@@ -1,0 +1,26 @@
+_repo: The-Manifestation-of-the-Miraculous-Medalof-the-Association_38966
+_version: 0.1.0
+alternative_title: The Association of the Miraculous Medal
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Association of the Miraculous Medal
+    gutenberg_agent_id: '45017'
+    url: http://www.gutenberg.org/2009/agents/45017
+description: ''
+gutenberg_issued: '2012-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Association of the Miraculous Medal'
+- !lcc 'BX'
+title: "The Manifestation of the Miraculous Medal\r\nA Brief Account of Its History\
+  \ and of the Establishment of the Association"
+url: http://www.gutenberg.org/ebooks/38966
