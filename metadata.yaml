@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '45017'
     url: http://www.gutenberg.org/2009/agents/45017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38966#The-Manifestation-of-the-Miraculous-Medalof-the-Association
 gutenberg_issued: '2012-02-24'
 gutenberg_type: Text
 identifiers:
